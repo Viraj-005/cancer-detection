@@ -15,7 +15,7 @@ def app():
         return rounded_image
 
     # Load the image
-    image_path = 'images/Cancer Detective.png'
+    image_path = 'images/CancerDetective.png'
     image = Image.open(image_path)
 
     # Resize the image while keeping the height constant
