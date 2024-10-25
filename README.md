@@ -1,7 +1,10 @@
 ![Logo](images/CancerDetective.png)
 
 # Cancer Detective Web App      
-Cancer Detective is a Streamlit web application designed to assist users in detecting different types of cancer through image analysis. The app leverages machine learning models trained on various datasets for skin, lung, and leukemia cancers, providing users with a user-friendly interface to upload images and receive diagnostic insights.                    
+Cancer Detective is a Streamlit web application designed to assist users in detecting different types of cancer through image analysis. The app leverages machine learning models trained on various datasets for skin, lung, and leukemia cancers, providing users with a user-friendly interface to upload images and receive diagnostic insights. 
+
+You can explore Cancer Detective live on Streamlit: 
+https://cancer-detective.streamlit.app/ 🌐
   
 ### Purpose
 I created this web app for my Final Year project Proof of Concept (PoC). It aims to demonstrate the potential of machine learning in medical diagnostics and improve awareness and early cancer detection.
