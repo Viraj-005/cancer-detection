@@ -11,22 +11,17 @@ I created this web app for my Final Year project Proof of Concept (PoC). It aims
 
 ## Features
 - **Multi-Cancer Detection:** It supports the detection of skin cancer (melanoma), lung cancer, and leukemia from uploaded images.
-- **User Authentication:** Allows registration and login for both users and medical professionals.
 - **Interactive Visualizations:** Provides detailed performance metrics and insights through interactive plots and matrices.
 - **Health Recommendations:** Displays personalized health messages based on detection results.
-- **Real-Time Model Training:** Enables users to fine-tune the model based on their inputs.
 
 ### Home
 On the Home page, users get an overview of what the web app offers. The application is designed to help detect skin cancer by analyzing skin images. With this app, users can:
 - Upload images of skin lesions for analysis. 📸
-- Use real-time camera functionality to capture and analyze skin images. ⏱️
 - Visualize detailed metrics about the model’s performance. 📊
-- Train and customize the skin cancer detection model according to their needs. 🧠
 
 ### Detection
 The Detection page allows users to detect skin cancer through two methods:
-- **Upload Images**: Users can upload skin images from their device for analysis. 📤
-- **Real-time Detection**: Users can use their device's camera to capture and analyze skin images in real-time. 📸                    
+- **Upload Images**: Users can upload skin images from their device for analysis. 📤               
 
 ### Visualizing
 The Visualizing page provides various metrics and visual aids to understand the model's performance:
